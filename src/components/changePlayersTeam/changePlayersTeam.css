@@ -1,0 +1,15 @@
+.table-header {
+    background-color: darkgray !important;
+}
+
+.table-title {
+    border-bottom: 5px black;
+    border-radius: 10px;
+}
+
+.fragment-style{
+    background: linear-gradient(to bottom, #cacccc 3px, #e5ece4) !important;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 1px 1px 15px 5px #a2afac !important;
+}

@@ -1,0 +1,12 @@
+.acc-body {
+    background: linear-gradient(to bottom, #73bdbd 10px, #baecec);
+
+}
+
+.accordion-item h2 button {
+    background: linear-gradient(to bottom, #529898 10px, #73bdbd);
+}
+
+.accordion-body {
+    text-align: left !important;;
+}

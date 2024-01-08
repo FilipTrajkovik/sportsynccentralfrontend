@@ -1,0 +1,10 @@
+.containerStyle {
+    background: linear-gradient(to bottom, #cacccc 10px, #e5ece4);
+    width: 1400px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 2px 4px 55px 15px #a2afac !important;
+}
+
+
+
